@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6f5ee98-55fd-4e45-93a2-cd42e6ef1da7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/agenda_telefonica/lib/ui/home_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agenda_telefonica/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/agenda_telefonica/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agenda_telefonica/lib/helpers/contact_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/agenda_telefonica/lib/helpers/contact_helper.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agenda_telefonica/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/agenda_telefonica/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agenda_telefonica/lib/ui/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/agenda_telefonica/lib/ui/home_page.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/agenda_telefonica/lib/ui/home_page.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="323">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding>
                 <element signature="e#0#63#0" expanded="true" />
               </folding>
@@ -172,6 +168,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" visible="true" weight="0.19722815" />
       <window_info id="Structure" side_tool="true" />
@@ -232,8 +229,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/agenda_telefonica/lib/ui/home_page.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="323">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
             <element signature="e#0#63#0" expanded="true" />
           </folding>
